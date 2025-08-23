@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate software engineer** and **cybersecurity specialist** with expertise spanning multiple programming languages and domains. My journey in technology is driven by a commitment to **clean code**, **innovative problem-solving**, and **continuous learning**.
+I'm a **passionate AI-assisted coding hobbyist exploring automation without writing the code myself** who is currently pursuing a Computer Science degree. I enjoy experimenting with new tools and technologies, making automation and productivity accessible. My journey in tech is guided by a commitment to clean code, practical problem-solving, and continuous learning.
 
 - 🔭 Currently working on **AI-powered automation systems** and **network security monitoring tools**
 - 🌱 Exploring **advanced machine learning** and **cloud security architecture**
@@ -60,30 +60,21 @@ I'm a **passionate software engineer** and **cybersecurity specialist** with exp
 - 📊 Provides comprehensive threat analysis insights
 - 📈 Advanced visualizations of security events
 - ⭐ **1 Star** | **Python**
-
-### 🎯 [Auto Tube Ace](https://github.com/D592D/auto-tube-ace)
-**Automated YouTube content management platform**
-- 🤖 AI-powered content optimization
-- 📱 Full-stack TypeScript implementation
-- ⚡ Netlify deployment with CI/CD
-
-### 🧠 [Aura AI Companion](https://github.com/D592D/aura-ai-companion)
-**Intelligent AI assistant with advanced conversational capabilities**
-- 🎭 Sophisticated AI personality system
-- 💬 Natural language processing
-- 🔧 TypeScript & MIT License
+  
+---
 
 ### 🏛️ [Justice of the Peace Site](https://github.com/D592D/justice-of-the-peace-site)
 **Professional legal services platform**
-- ⚖️ Legal document management
-- 📝 Client portal functionality
+- ⚖️ Landing page for Justice of Peace
+- 📝 Client contact intergrations
 - 🎨 Modern TypeScript frontend
+  
+---
 
-### 💼 [SHEIN SaaS Platform](https://github.com/D592D/shein-saas-dashboard)
-**E-commerce analytics and management suite**
-- 📊 Advanced dashboard analytics
-- 🛒 Full-stack JavaScript solution
-- 🔗 Integrated with backend API
+## ✨ Featured Creations
+
+- 🌱 [NAI Wellness](https://naiwellness.com/) — Designed and vibe coded for digital well-being and creative empowerment.
+- 👔 [Advop Solutions](https://advopsolutions.com/) — Vibe coded automation platform for professional services and smart business workflows.
 
 ---
 
@@ -103,21 +94,6 @@ I'm a **passionate software engineer** and **cybersecurity specialist** with exp
 
 ---
 
-## 🤝 Contributions & Open Source
-
-### **Active Contributions**
-- 🌟 **[Agent-S](https://github.com/D592D/Agent-S)** - Open agentic framework for human-like computer interaction
-- 🔧 **[Awesome n8n Templates](https://github.com/D592D/awesome-n8n-templates)** - Curated collection of workflow automation templates
-- 🚀 **System Prompts Collection** - AI tool prompts and models repository
-
-### **Community Involvement**
-- 💡 Regular contributions to **open-source projects**
-- 📚 Knowledge sharing through **detailed project documentation**
-- 🤝 Collaborative development with **distributed teams**
-- 🔍 Code reviews and **quality assurance** practices
-
----
-
 ## 📬 Contact & Connect
 
 <div align="center">
@@ -126,11 +102,11 @@ I'm a **passionate software engineer** and **cybersecurity specialist** with exp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dyall)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D592D)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@danieldyall.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advopsolutions@gmail.com)
 
 ### **Professional Inquiries**
 - 💼 **Open to collaboration** on innovative projects
-- 🚀 **Available for consulting** in cybersecurity and AI
+- 🚀 **Available for consulting** in cybersecurity, AI and automation.
 - 📧 **Business contact**: [LinkedIn DM](https://www.linkedin.com/in/daniel-dyall)
 - 🌐 **Portfolio**: [View Projects](https://github.com/D592D/Portfolio)
 
