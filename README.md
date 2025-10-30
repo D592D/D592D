@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate AI-assisted coding hobbyist exploring automation without writing the code myself** who is currently pursuing a Computer Science degree. I enjoy experimenting with new tools and technologies, making automation and productivity accessible. My journey in tech is guided by a commitment to clean code, practical problem-solving, and continuous learning.
+I'm a passionate Computer Science student exploring the frontiers of AI-driven automation. I enjoy experimenting with new tools and AI to make automation and productivity accessible, often without writing code from scratch. My journey in tech is guided by a commitment to practical problem-solving and continuous learning.
 
 - 🔭 Currently working on **AI-powered automation systems** and **network security monitoring tools**
 - 🌱 Exploring **advanced machine learning** and **cloud security architecture**
